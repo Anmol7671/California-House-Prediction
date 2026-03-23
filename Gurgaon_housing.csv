@@ -1,0 +1,501 @@
+Location,Property_Type,Area_sqft,Bedrooms,Bathrooms,Balcony,Parking,Age_of_Property_Years,Floor,Total_Floors,Furnishing,Near_Metro,Price_INR
+Sector 56,Apartment,,,,,,,28,7,,,28903086
+Sector 67,Apartment,1225.0,3.0,1.0,3.0,0.0,3.0,29,9,Fully Furnished,1.0,16685358
+Sector 45,Apartment,,,,,,,17,34,,,56809959
+Sector 45,Villa,1099.0,1.0,1.0,1.0,2.0,14.0,0,23,Unfurnished,1.0,15783089
+Golf Course Road,Builder Floor,2297.0,3.0,4.0,3.0,0.0,19.0,27,9,Semi-Furnished,0.0,44540715
+Golf Course Road,Apartment,2311.0,5.0,4.0,0.0,1.0,0.0,11,25,Semi-Furnished,0.0,48306221
+Golf Course Road,Apartment,3164.0,3.0,3.0,1.0,0.0,19.0,5,9,Fully Furnished,0.0,61641858
+Sohna Road,Apartment,758.0,4.0,1.0,2.0,0.0,22.0,19,4,Semi-Furnished,0.0,5104037
+Sohna Road,Builder Floor,782.0,4.0,4.0,1.0,1.0,23.0,4,14,Fully Furnished,0.0,5909143
+Golf Course Road,Apartment,,,,,,,0,24,,,49869178
+Sector 67,Apartment,761.0,2.0,3.0,2.0,2.0,9.0,7,3,Semi-Furnished,0.0,10296585
+Sector 56,Apartment,,,,,,,7,31,,,36295993
+DLF Phase 1,Apartment,561.0,4.0,2.0,2.0,2.0,24.0,19,11,Fully Furnished,1.0,9017105
+Golf Course Road,Villa,1571.0,5.0,3.0,0.0,2.0,10.0,13,20,Unfurnished,0.0,33569206
+DLF Phase 1,Builder Floor,3098.0,5.0,3.0,3.0,0.0,6.0,20,1,Unfurnished,0.0,56122495
+Golf Course Road,Apartment,3669.0,1.0,4.0,0.0,1.0,1.0,1,15,Unfurnished,0.0,73856857
+Sector 67,Builder Floor,3234.0,2.0,3.0,1.0,2.0,7.0,14,25,Semi-Furnished,1.0,40917577
+Sector 45,Apartment,2056.0,2.0,2.0,1.0,0.0,10.0,6,2,Fully Furnished,1.0,31752220
+Sector 57,Apartment,1911.0,3.0,1.0,1.0,2.0,15.0,20,22,Fully Furnished,0.0,23854790
+Sohna Road,Apartment,1196.0,2.0,4.0,3.0,0.0,1.0,0,30,Unfurnished,0.0,12056526
+Sohna Road,Apartment,4152.0,1.0,2.0,3.0,2.0,15.0,27,5,Unfurnished,0.0,36935668
+Golf Course Road,Villa,1073.0,2.0,1.0,1.0,2.0,16.0,0,4,Unfurnished,1.0,20304960
+Sector 57,Builder Floor,,,,,,,25,16,,,42932415
+DLF Phase 1,Builder Floor,1163.0,5.0,3.0,2.0,2.0,15.0,25,2,Unfurnished,0.0,21647952
+DLF Phase 1,Apartment,3267.0,5.0,3.0,2.0,2.0,13.0,24,8,Fully Furnished,0.0,59208484
+DLF Phase 3,Apartment,3748.0,4.0,3.0,0.0,1.0,12.0,2,8,Semi-Furnished,0.0,60557246
+Sohna Road,Apartment,1617.0,4.0,4.0,3.0,2.0,22.0,0,1,Fully Furnished,0.0,14061368
+Sector 67,Apartment,4248.0,5.0,2.0,2.0,2.0,21.0,28,18,Semi-Furnished,1.0,52533830
+Sector 56,Apartment,4219.0,1.0,3.0,2.0,2.0,20.0,2,12,Semi-Furnished,1.0,57408314
+Golf Course Road,Apartment,1571.0,2.0,3.0,1.0,0.0,2.0,15,23,Semi-Furnished,0.0,33378297
+Sector 45,Apartment,,,,,,,5,17,,,62118977
+Sector 45,Builder Floor,3169.0,3.0,4.0,2.0,2.0,1.0,18,14,Semi-Furnished,0.0,49970548
+Sohna Road,Builder Floor,3039.0,4.0,3.0,0.0,2.0,7.0,23,31,Unfurnished,0.0,28642397
+Sector 45,Builder Floor,,,,,,,23,5,,,66428830
+DLF Phase 1,Apartment,3312.0,2.0,1.0,1.0,2.0,18.0,28,4,Semi-Furnished,1.0,59530457
+DLF Phase 2,Apartment,2431.0,3.0,2.0,0.0,0.0,2.0,2,3,Fully Furnished,1.0,42249220
+DLF Phase 1,Apartment,626.0,5.0,1.0,3.0,0.0,8.0,3,13,Semi-Furnished,1.0,11697399
+DLF Phase 1,Apartment,1081.0,1.0,3.0,0.0,2.0,17.0,20,1,Fully Furnished,1.0,18633103
+Sector 67,Apartment,3172.0,3.0,3.0,2.0,2.0,5.0,1,9,Fully Furnished,0.0,41549073
+Golf Course Road,Villa,4300.0,3.0,3.0,1.0,1.0,21.0,16,13,Fully Furnished,0.0,84045465
+Golf Course Road,Villa,3473.0,1.0,3.0,2.0,0.0,16.0,3,5,Unfurnished,0.0,67961310
+Sector 45,Apartment,2366.0,4.0,4.0,3.0,2.0,2.0,1,13,Fully Furnished,1.0,38113160
+DLF Phase 1,Apartment,4145.0,5.0,3.0,3.0,1.0,10.0,2,10,Semi-Furnished,0.0,76267333
+Golf Course Road,Villa,1809.0,5.0,3.0,1.0,0.0,4.0,3,8,Unfurnished,0.0,37616956
+Golf Course Road,Apartment,1831.0,4.0,1.0,0.0,2.0,19.0,3,16,Unfurnished,1.0,36101449
+Golf Course Road,Apartment,1766.0,2.0,4.0,2.0,0.0,16.0,12,23,Semi-Furnished,1.0,34795425
+DLF Phase 1,Apartment,1694.0,3.0,2.0,0.0,1.0,0.0,22,23,Fully Furnished,1.0,33227854
+Sector 57,Apartment,2008.0,4.0,4.0,3.0,2.0,18.0,21,33,Fully Furnished,0.0,26301284
+Sector 56,Apartment,1893.0,5.0,2.0,0.0,2.0,1.0,25,14,Unfurnished,0.0,29731219
+Sector 45,Builder Floor,1010.0,1.0,2.0,2.0,1.0,3.0,25,21,Unfurnished,0.0,15892355
+DLF Phase 2,Apartment,1448.0,4.0,1.0,1.0,0.0,15.0,11,1,Semi-Furnished,1.0,25202031
+Sector 45,Builder Floor,682.0,2.0,1.0,1.0,1.0,18.0,6,22,Semi-Furnished,1.0,8977183
+DLF Phase 2,Apartment,3149.0,4.0,3.0,2.0,1.0,13.0,9,32,Fully Furnished,1.0,54391818
+Sector 45,Builder Floor,620.0,5.0,2.0,2.0,2.0,16.0,1,10,Unfurnished,1.0,9499177
+Sector 56,Villa,1982.0,4.0,1.0,0.0,0.0,24.0,11,16,Fully Furnished,1.0,26474475
+Sector 45,Apartment,522.0,4.0,4.0,2.0,1.0,8.0,3,32,Unfurnished,1.0,9192209
+DLF Phase 2,Apartment,1284.0,3.0,1.0,0.0,0.0,8.0,3,33,Semi-Furnished,1.0,22367340
+Sector 57,Builder Floor,2244.0,2.0,3.0,3.0,1.0,21.0,20,8,Fully Furnished,1.0,27675838
+DLF Phase 2,Apartment,2518.0,2.0,1.0,0.0,2.0,18.0,4,32,Fully Furnished,0.0,41878717
+DLF Phase 3,Villa,1988.0,5.0,3.0,3.0,0.0,15.0,7,5,Semi-Furnished,1.0,32227704
+Sector 45,Apartment,2112.0,1.0,3.0,2.0,0.0,10.0,23,23,Unfurnished,0.0,31012139
+DLF Phase 3,Apartment,2999.0,3.0,2.0,3.0,2.0,14.0,13,24,Semi-Furnished,1.0,48380268
+DLF Phase 3,Villa,2803.0,1.0,1.0,0.0,0.0,9.0,1,9,Fully Furnished,1.0,45031650
+Sector 57,Apartment,,,,,,,4,15,,,25330079
+Golf Course Road,Villa,1038.0,3.0,1.0,3.0,1.0,17.0,14,32,Unfurnished,0.0,19663932
+Sector 45,Apartment,3024.0,4.0,4.0,2.0,0.0,10.0,4,4,Fully Furnished,1.0,45502227
+DLF Phase 1,Apartment,2993.0,2.0,1.0,1.0,1.0,24.0,27,22,Unfurnished,1.0,51774459
+Sector 45,Apartment,2792.0,4.0,2.0,1.0,2.0,13.0,29,30,Semi-Furnished,1.0,42295751
+Sector 56,Apartment,,,,,,,2,1,,,62715169
+Sector 57,Apartment,1997.0,4.0,4.0,0.0,2.0,20.0,20,17,Semi-Furnished,0.0,26544725
+Sector 45,Apartment,,,,,,,28,18,,,31180392
+DLF Phase 1,Apartment,3274.0,3.0,4.0,3.0,2.0,9.0,26,12,Semi-Furnished,0.0,59569996
+Sector 56,Villa,2428.0,3.0,1.0,0.0,1.0,14.0,11,15,Fully Furnished,0.0,33339728
+Sohna Road,Villa,,,,,,,19,27,,,24193159
+Sector 67,Apartment,3219.0,2.0,4.0,2.0,2.0,3.0,27,20,Fully Furnished,0.0,40906316
+Golf Course Road,Villa,2077.0,3.0,1.0,1.0,0.0,12.0,8,28,Fully Furnished,1.0,41239936
+DLF Phase 3,Villa,,,,,,,22,24,,,47971814
+Golf Course Road,Apartment,,,,,,,16,18,,,78029505
+Sector 45,Apartment,2256.0,1.0,4.0,3.0,0.0,18.0,12,21,Fully Furnished,1.0,33120996
+Sohna Road,Builder Floor,2800.0,4.0,2.0,3.0,0.0,24.0,20,24,Semi-Furnished,0.0,23191731
+Sector 67,Apartment,3832.0,3.0,2.0,1.0,0.0,3.0,14,23,Unfurnished,0.0,48733674
+Sector 67,Apartment,3415.0,1.0,4.0,2.0,2.0,24.0,13,11,Semi-Furnished,0.0,40742152
+Sector 57,Villa,2476.0,5.0,4.0,1.0,0.0,19.0,18,5,Fully Furnished,1.0,32779432
+Sector 67,Villa,1700.0,2.0,3.0,1.0,2.0,4.0,9,29,Unfurnished,1.0,21832863
+Sector 57,Apartment,,,,,,,14,31,,,35459027
+Golf Course Road,Builder Floor,3928.0,1.0,1.0,2.0,0.0,8.0,18,8,Fully Furnished,1.0,77933771
+DLF Phase 2,Builder Floor,1453.0,2.0,2.0,3.0,2.0,3.0,13,2,Unfurnished,0.0,25935413
+Sector 57,Villa,677.0,1.0,3.0,3.0,0.0,17.0,1,22,Unfurnished,0.0,7893218
+Sector 56,Apartment,2523.0,1.0,2.0,3.0,0.0,21.0,13,34,Semi-Furnished,0.0,31888622
+Sector 56,Apartment,718.0,3.0,1.0,1.0,1.0,24.0,19,5,Semi-Furnished,0.0,8754223
+DLF Phase 1,Apartment,1661.0,1.0,2.0,0.0,0.0,4.0,12,17,Semi-Furnished,0.0,30351392
+Sector 67,Apartment,3598.0,3.0,3.0,3.0,0.0,13.0,4,24,Semi-Furnished,1.0,45640479
+DLF Phase 3,Apartment,1297.0,2.0,3.0,2.0,0.0,21.0,11,10,Semi-Furnished,0.0,19352908
+Sector 67,Apartment,,,,,,,9,18,,,42514852
+Sohna Road,Apartment,3934.0,4.0,4.0,1.0,2.0,20.0,15,30,Semi-Furnished,0.0,33854072
+DLF Phase 3,Apartment,903.0,1.0,2.0,1.0,0.0,3.0,29,18,Fully Furnished,0.0,15124899
+Sector 56,Builder Floor,568.0,1.0,2.0,2.0,1.0,9.0,26,34,Fully Furnished,0.0,7792668
+DLF Phase 2,Apartment,2896.0,5.0,3.0,2.0,2.0,10.0,4,29,Fully Furnished,0.0,50571410
+Sector 67,Villa,1437.0,3.0,2.0,0.0,2.0,2.0,18,13,Unfurnished,0.0,18295491
+DLF Phase 2,Builder Floor,1475.0,1.0,1.0,3.0,0.0,21.0,23,13,Semi-Furnished,1.0,22872113
+Sector 57,Builder Floor,3408.0,2.0,2.0,0.0,1.0,20.0,3,25,Unfurnished,1.0,42884708
+DLF Phase 2,Villa,,,,,,,5,10,,,23286000
+Sector 67,Apartment,2146.0,1.0,2.0,3.0,2.0,10.0,16,11,Fully Furnished,1.0,27344612
+Sohna Road,Apartment,4108.0,2.0,2.0,2.0,0.0,0.0,1,9,Fully Furnished,1.0,39197396
+Sector 67,Villa,,,,,,,5,1,,,7476745
+Sector 57,Villa,4333.0,5.0,2.0,0.0,1.0,23.0,29,23,Semi-Furnished,1.0,55723189
+Golf Course Road,Apartment,501.0,4.0,3.0,1.0,0.0,13.0,3,25,Fully Furnished,0.0,8956187
+Sector 57,Builder Floor,2990.0,2.0,2.0,2.0,2.0,19.0,26,34,Unfurnished,0.0,37387293
+Sector 56,Apartment,3079.0,5.0,2.0,3.0,1.0,7.0,20,16,Fully Furnished,0.0,44401825
+Sector 67,Apartment,4445.0,1.0,2.0,0.0,0.0,12.0,21,31,Fully Furnished,1.0,54150163
+Sohna Road,Apartment,2338.0,4.0,1.0,0.0,1.0,13.0,10,12,Semi-Furnished,0.0,19527788
+DLF Phase 2,Apartment,852.0,2.0,1.0,1.0,0.0,22.0,3,7,Semi-Furnished,0.0,12007005
+Sector 57,Apartment,997.0,1.0,2.0,1.0,0.0,12.0,6,22,Fully Furnished,0.0,10952495
+Sector 57,Villa,3654.0,5.0,2.0,1.0,2.0,16.0,15,18,Unfurnished,0.0,48192830
+Sohna Road,Apartment,1463.0,5.0,1.0,2.0,1.0,3.0,22,16,Semi-Furnished,0.0,14928311
+Sector 45,Apartment,3988.0,2.0,3.0,1.0,1.0,4.0,8,1,Unfurnished,1.0,61268066
+Golf Course Road,Apartment,3660.0,3.0,4.0,3.0,2.0,2.0,16,8,Unfurnished,0.0,74758438
+Golf Course Road,Apartment,1769.0,1.0,2.0,2.0,0.0,0.0,21,13,Fully Furnished,1.0,35905242
+Sector 56,Apartment,4055.0,3.0,2.0,1.0,1.0,14.0,20,34,Fully Furnished,0.0,55633743
+Golf Course Road,Apartment,3557.0,3.0,3.0,1.0,1.0,2.0,6,28,Semi-Furnished,1.0,73174904
+Sector 57,Apartment,2292.0,2.0,2.0,2.0,0.0,6.0,7,31,Unfurnished,0.0,30644652
+Sector 67,Apartment,3244.0,2.0,4.0,1.0,1.0,1.0,22,13,Unfurnished,1.0,43302796
+DLF Phase 3,Apartment,1731.0,5.0,3.0,1.0,1.0,4.0,28,14,Unfurnished,0.0,28747070
+DLF Phase 1,Apartment,1804.0,3.0,3.0,3.0,0.0,17.0,3,31,Semi-Furnished,0.0,31383005
+Sector 57,Builder Floor,,,,,,,29,18,,,52168281
+Sector 45,Apartment,1650.0,4.0,4.0,2.0,1.0,14.0,20,9,Unfurnished,0.0,25268088
+DLF Phase 1,Apartment,3774.0,5.0,2.0,1.0,2.0,23.0,24,14,Unfurnished,0.0,67222030
+Sector 57,Apartment,2251.0,3.0,4.0,3.0,2.0,21.0,3,22,Fully Furnished,0.0,27706900
+Golf Course Road,Apartment,2070.0,3.0,4.0,3.0,2.0,13.0,20,29,Unfurnished,1.0,41546405
+DLF Phase 2,Apartment,3848.0,3.0,1.0,3.0,1.0,17.0,23,5,Fully Furnished,0.0,64739437
+Sohna Road,Apartment,3371.0,5.0,1.0,0.0,2.0,14.0,5,5,Unfurnished,0.0,30593005
+Sector 56,Builder Floor,2088.0,4.0,3.0,2.0,0.0,14.0,25,30,Unfurnished,1.0,28880324
+DLF Phase 1,Apartment,823.0,4.0,2.0,3.0,1.0,3.0,23,1,Semi-Furnished,1.0,15904065
+DLF Phase 3,Villa,1888.0,4.0,2.0,2.0,1.0,12.0,5,33,Fully Furnished,0.0,29656708
+DLF Phase 1,Apartment,769.0,3.0,1.0,0.0,1.0,9.0,29,31,Unfurnished,0.0,14058185
+Golf Course Road,Apartment,3662.0,1.0,1.0,2.0,2.0,19.0,24,3,Unfurnished,0.0,72566031
+Sector 67,Builder Floor,2324.0,1.0,2.0,1.0,1.0,0.0,25,14,Unfurnished,0.0,29074403
+DLF Phase 3,Builder Floor,515.0,3.0,2.0,3.0,1.0,6.0,10,22,Unfurnished,0.0,7561951
+Sector 57,Villa,2783.0,4.0,3.0,1.0,0.0,3.0,26,7,Semi-Furnished,0.0,37287925
+DLF Phase 2,Apartment,2997.0,1.0,4.0,3.0,2.0,14.0,11,33,Fully Furnished,0.0,50320370
+DLF Phase 1,Builder Floor,3988.0,1.0,1.0,3.0,1.0,5.0,14,7,Fully Furnished,1.0,71726614
+DLF Phase 1,Villa,885.0,2.0,3.0,3.0,0.0,1.0,0,11,Semi-Furnished,0.0,16774063
+DLF Phase 2,Apartment,2250.0,5.0,2.0,1.0,2.0,15.0,23,23,Unfurnished,0.0,37507340
+DLF Phase 2,Apartment,1329.0,4.0,2.0,0.0,2.0,11.0,5,27,Fully Furnished,1.0,22550202
+Sector 57,Builder Floor,4213.0,2.0,1.0,1.0,1.0,16.0,23,1,Fully Furnished,0.0,53504120
+Sector 45,Apartment,1737.0,1.0,2.0,2.0,0.0,18.0,6,12,Unfurnished,0.0,24445557
+DLF Phase 3,Villa,989.0,1.0,1.0,2.0,1.0,3.0,19,31,Fully Furnished,0.0,15567663
+DLF Phase 1,Builder Floor,728.0,3.0,3.0,0.0,1.0,9.0,4,17,Unfurnished,0.0,14127894
+Sector 56,Villa,3202.0,2.0,4.0,0.0,2.0,18.0,6,9,Fully Furnished,0.0,44430021
+Sohna Road,Apartment,2556.0,5.0,4.0,2.0,0.0,23.0,8,31,Unfurnished,0.0,22597445
+Golf Course Road,Apartment,2640.0,2.0,2.0,1.0,0.0,23.0,5,23,Semi-Furnished,0.0,50974089
+DLF Phase 2,Apartment,4103.0,2.0,4.0,2.0,1.0,7.0,21,24,Fully Furnished,0.0,70643664
+Sector 56,Apartment,4215.0,2.0,1.0,3.0,0.0,0.0,15,28,Fully Furnished,1.0,61424674
+Sector 45,Builder Floor,1597.0,5.0,1.0,2.0,2.0,9.0,5,14,Unfurnished,0.0,25520145
+Sector 67,Villa,2894.0,1.0,4.0,3.0,1.0,7.0,21,34,Fully Furnished,1.0,36400672
+Golf Course Road,Apartment,,,,,,,4,31,,,72547486
+DLF Phase 2,Apartment,4235.0,1.0,1.0,0.0,1.0,13.0,2,6,Fully Furnished,1.0,71292252
+DLF Phase 1,Apartment,1183.0,3.0,4.0,1.0,2.0,8.0,17,23,Unfurnished,0.0,22434588
+DLF Phase 3,Apartment,3125.0,4.0,3.0,0.0,1.0,6.0,27,22,Fully Furnished,0.0,50309347
+Golf Course Road,Builder Floor,2339.0,3.0,4.0,1.0,2.0,6.0,13,1,Semi-Furnished,1.0,47813122
+DLF Phase 1,Apartment,523.0,2.0,4.0,3.0,0.0,12.0,16,27,Semi-Furnished,1.0,8551997
+DLF Phase 1,Apartment,2475.0,4.0,3.0,3.0,2.0,8.0,5,23,Semi-Furnished,1.0,45804429
+Sohna Road,Apartment,4303.0,1.0,4.0,2.0,0.0,23.0,22,13,Fully Furnished,1.0,37171699
+DLF Phase 3,Builder Floor,738.0,2.0,4.0,0.0,0.0,22.0,3,30,Fully Furnished,0.0,9362517
+DLF Phase 1,Apartment,4449.0,2.0,2.0,0.0,1.0,6.0,16,28,Unfurnished,1.0,80415397
+Sector 57,Apartment,1900.0,5.0,2.0,1.0,1.0,12.0,24,5,Semi-Furnished,1.0,25769957
+Sector 57,Apartment,3422.0,4.0,2.0,3.0,1.0,3.0,21,21,Unfurnished,1.0,45669367
+DLF Phase 1,Apartment,559.0,3.0,1.0,3.0,0.0,22.0,28,21,Semi-Furnished,0.0,6964997
+DLF Phase 1,Apartment,3270.0,1.0,1.0,1.0,2.0,16.0,7,11,Unfurnished,1.0,58301783
+Sohna Road,Builder Floor,1423.0,4.0,4.0,2.0,1.0,14.0,25,6,Semi-Furnished,0.0,13768293
+Sector 56,Builder Floor,1406.0,1.0,2.0,2.0,1.0,22.0,27,8,Unfurnished,0.0,17817280
+Sector 57,Apartment,659.0,1.0,4.0,0.0,0.0,17.0,25,17,Fully Furnished,1.0,6966308
+DLF Phase 2,Apartment,1452.0,5.0,1.0,3.0,1.0,0.0,11,26,Semi-Furnished,1.0,27321252
+Sector 56,Builder Floor,,,,,,,0,15,,,51757403
+DLF Phase 1,Villa,3319.0,2.0,3.0,0.0,2.0,18.0,13,2,Unfurnished,0.0,59102034
+Golf Course Road,Apartment,3752.0,5.0,1.0,0.0,0.0,11.0,29,1,Unfurnished,0.0,75358192
+DLF Phase 3,Builder Floor,1372.0,1.0,4.0,3.0,2.0,23.0,1,32,Fully Furnished,0.0,20223375
+DLF Phase 1,Apartment,1563.0,2.0,1.0,0.0,1.0,16.0,8,28,Fully Furnished,0.0,26708257
+Sector 45,Builder Floor,3662.0,5.0,2.0,3.0,1.0,18.0,27,31,Unfurnished,1.0,54446360
+Sohna Road,Apartment,1066.0,4.0,3.0,3.0,1.0,3.0,0,29,Semi-Furnished,1.0,12367388
+Sector 45,Villa,4436.0,3.0,3.0,2.0,0.0,5.0,0,5,Fully Furnished,0.0,67184793
+Golf Course Road,Builder Floor,2985.0,1.0,4.0,0.0,2.0,7.0,19,19,Fully Furnished,0.0,59763598
+DLF Phase 2,Apartment,4059.0,1.0,1.0,0.0,1.0,11.0,27,17,Semi-Furnished,1.0,68544538
+DLF Phase 1,Builder Floor,3178.0,2.0,4.0,0.0,2.0,6.0,14,30,Fully Furnished,1.0,58809420
+DLF Phase 2,Apartment,3963.0,5.0,2.0,1.0,1.0,20.0,29,19,Semi-Furnished,0.0,66629775
+Sector 56,Builder Floor,,,,,,,23,6,,,28677610
+Sector 67,Apartment,3119.0,3.0,4.0,0.0,0.0,10.0,1,25,Semi-Furnished,1.0,39098983
+DLF Phase 2,Apartment,802.0,3.0,1.0,2.0,1.0,15.0,16,22,Semi-Furnished,0.0,12650737
+DLF Phase 1,Builder Floor,1457.0,2.0,1.0,3.0,0.0,16.0,20,7,Unfurnished,0.0,23613834
+DLF Phase 2,Apartment,716.0,4.0,4.0,0.0,0.0,14.0,7,29,Semi-Furnished,0.0,12537786
+DLF Phase 1,Builder Floor,1743.0,3.0,2.0,2.0,2.0,24.0,13,13,Unfurnished,0.0,29600792
+DLF Phase 2,Builder Floor,1316.0,4.0,1.0,2.0,1.0,23.0,20,20,Fully Furnished,0.0,20780010
+Sohna Road,Builder Floor,2053.0,5.0,4.0,2.0,0.0,10.0,14,17,Unfurnished,0.0,18908569
+Sector 56,Villa,3473.0,2.0,4.0,3.0,2.0,23.0,26,11,Semi-Furnished,0.0,47123186
+DLF Phase 2,Apartment,,,,,,,2,16,,,34188038
+Sector 67,Apartment,3465.0,4.0,1.0,3.0,1.0,21.0,23,30,Unfurnished,0.0,41218814
+Sohna Road,Apartment,3647.0,4.0,2.0,3.0,1.0,24.0,16,32,Semi-Furnished,0.0,31084460
+Sector 57,Apartment,1750.0,2.0,1.0,1.0,0.0,20.0,26,4,Unfurnished,0.0,20028387
+DLF Phase 3,Apartment,3115.0,5.0,2.0,0.0,2.0,9.0,25,34,Semi-Furnished,0.0,51407041
+Sector 56,Builder Floor,803.0,1.0,1.0,1.0,0.0,2.0,16,28,Semi-Furnished,0.0,11165587
+Golf Course Road,Apartment,1210.0,1.0,3.0,2.0,2.0,9.0,23,2,Fully Furnished,0.0,23546081
+Sector 56,Apartment,1337.0,3.0,4.0,1.0,1.0,18.0,24,12,Unfurnished,0.0,18149818
+DLF Phase 2,Villa,1085.0,4.0,3.0,1.0,2.0,8.0,23,6,Semi-Furnished,1.0,20743721
+DLF Phase 3,Builder Floor,4204.0,3.0,1.0,3.0,2.0,12.0,15,7,Fully Furnished,1.0,67329887
+Sohna Road,Apartment,1790.0,3.0,3.0,1.0,2.0,24.0,23,4,Semi-Furnished,0.0,14033169
+Sector 57,Apartment,3137.0,1.0,1.0,0.0,1.0,0.0,24,9,Fully Furnished,1.0,42438691
+DLF Phase 3,Builder Floor,3882.0,4.0,1.0,1.0,2.0,9.0,13,1,Fully Furnished,1.0,63237114
+Sector 67,Builder Floor,2802.0,5.0,4.0,0.0,1.0,2.0,17,6,Semi-Furnished,0.0,37950758
+DLF Phase 3,Apartment,3893.0,4.0,2.0,0.0,2.0,10.0,15,22,Semi-Furnished,1.0,62960437
+Sector 57,Apartment,,,,,,,22,22,,,14255796
+Golf Course Road,Villa,4217.0,1.0,2.0,3.0,1.0,5.0,19,9,Unfurnished,1.0,84740873
+Golf Course Road,Apartment,,,,,,,14,5,,,52992524
+Sector 57,Villa,2687.0,3.0,1.0,0.0,1.0,14.0,23,29,Unfurnished,0.0,34463538
+Sector 57,Apartment,4402.0,3.0,4.0,2.0,2.0,2.0,18,26,Fully Furnished,1.0,59556187
+Sector 67,Apartment,1574.0,5.0,2.0,3.0,0.0,15.0,28,34,Unfurnished,0.0,19495641
+DLF Phase 1,Builder Floor,1572.0,2.0,4.0,0.0,2.0,4.0,5,7,Unfurnished,0.0,29020073
+Sector 67,Apartment,774.0,4.0,1.0,1.0,1.0,13.0,13,16,Unfurnished,0.0,8597847
+Sector 56,Apartment,2173.0,4.0,2.0,2.0,2.0,24.0,8,8,Unfurnished,1.0,30554121
+Sector 67,Apartment,1656.0,2.0,4.0,2.0,0.0,15.0,22,30,Semi-Furnished,0.0,19931025
+DLF Phase 3,Apartment,527.0,4.0,1.0,3.0,2.0,15.0,25,33,Semi-Furnished,1.0,9169114
+Sector 67,Villa,2737.0,2.0,3.0,1.0,1.0,22.0,29,22,Semi-Furnished,1.0,32861311
+Sohna Road,Builder Floor,2468.0,4.0,3.0,2.0,0.0,11.0,9,14,Fully Furnished,1.0,22612428
+Golf Course Road,Apartment,3725.0,2.0,3.0,3.0,0.0,4.0,2,33,Unfurnished,0.0,75708582
+DLF Phase 1,Apartment,3702.0,3.0,3.0,1.0,0.0,18.0,8,24,Fully Furnished,0.0,66281439
+Sector 57,Apartment,4443.0,2.0,1.0,1.0,0.0,2.0,7,7,Semi-Furnished,0.0,57662563
+Sohna Road,Apartment,4381.0,3.0,1.0,2.0,2.0,24.0,7,30,Unfurnished,0.0,37558600
+Golf Course Road,Apartment,1028.0,2.0,2.0,1.0,0.0,15.0,11,10,Fully Furnished,0.0,19031990
+Golf Course Road,Apartment,2863.0,5.0,2.0,1.0,2.0,23.0,10,5,Semi-Furnished,1.0,56881931
+Sector 67,Builder Floor,3125.0,3.0,3.0,3.0,1.0,5.0,20,33,Fully Furnished,0.0,40785635
+DLF Phase 3,Villa,3360.0,1.0,4.0,0.0,2.0,9.0,20,31,Fully Furnished,1.0,53634222
+Sector 57,Apartment,3414.0,3.0,3.0,3.0,0.0,0.0,26,11,Semi-Furnished,0.0,45726421
+Sector 67,Apartment,2409.0,2.0,4.0,1.0,2.0,13.0,24,28,Unfurnished,0.0,30665977
+DLF Phase 2,Apartment,2322.0,1.0,1.0,1.0,2.0,3.0,20,28,Semi-Furnished,0.0,40961677
+Sector 45,Apartment,1465.0,5.0,4.0,0.0,2.0,3.0,19,9,Unfurnished,0.0,24241390
+Sector 56,Apartment,3874.0,5.0,2.0,2.0,0.0,7.0,20,10,Unfurnished,1.0,55353825
+DLF Phase 1,Apartment,794.0,1.0,2.0,3.0,0.0,5.0,19,10,Fully Furnished,0.0,15351395
+Sector 45,Builder Floor,2254.0,2.0,1.0,1.0,0.0,6.0,19,33,Fully Furnished,1.0,34731687
+Sector 57,Apartment,2367.0,4.0,3.0,3.0,2.0,21.0,27,11,Fully Furnished,0.0,30380010
+Sector 67,Apartment,2542.0,2.0,4.0,2.0,1.0,16.0,23,23,Fully Furnished,1.0,32137224
+Sector 56,Apartment,3639.0,3.0,4.0,1.0,1.0,2.0,7,18,Semi-Furnished,0.0,52788695
+DLF Phase 1,Apartment,4270.0,1.0,3.0,1.0,0.0,11.0,17,10,Unfurnished,1.0,76411150
+Sector 56,Builder Floor,1685.0,2.0,2.0,2.0,2.0,2.0,17,7,Unfurnished,0.0,24078200
+DLF Phase 2,Apartment,2222.0,3.0,2.0,1.0,1.0,4.0,16,8,Unfurnished,0.0,40525404
+Sector 57,Villa,1587.0,3.0,4.0,3.0,2.0,11.0,26,29,Unfurnished,0.0,20369333
+DLF Phase 3,Builder Floor,2926.0,2.0,1.0,1.0,2.0,23.0,27,10,Unfurnished,0.0,43809924
+Sector 56,Apartment,2472.0,2.0,1.0,3.0,1.0,5.0,13,5,Fully Furnished,0.0,35518233
+Sohna Road,Apartment,2149.0,3.0,2.0,1.0,2.0,10.0,13,19,Semi-Furnished,0.0,19398752
+Golf Course Road,Builder Floor,4070.0,1.0,2.0,0.0,2.0,9.0,0,30,Unfurnished,1.0,82058041
+Sector 57,Apartment,4226.0,1.0,1.0,3.0,0.0,14.0,12,11,Unfurnished,0.0,52328393
+Golf Course Road,Apartment,4008.0,3.0,1.0,1.0,0.0,13.0,6,20,Fully Furnished,1.0,79512121
+Sector 57,Builder Floor,2469.0,4.0,1.0,2.0,1.0,7.0,15,12,Semi-Furnished,0.0,32427416
+Sector 45,Apartment,2538.0,4.0,3.0,0.0,0.0,3.0,0,13,Semi-Furnished,0.0,39957473
+Golf Course Road,Builder Floor,2836.0,5.0,3.0,0.0,1.0,20.0,8,30,Fully Furnished,1.0,56970917
+Sector 67,Builder Floor,2791.0,2.0,1.0,0.0,0.0,0.0,9,26,Semi-Furnished,0.0,36204826
+DLF Phase 3,Villa,3765.0,2.0,2.0,1.0,1.0,16.0,18,27,Semi-Furnished,1.0,60191629
+Sector 45,Builder Floor,664.0,4.0,1.0,1.0,2.0,13.0,14,14,Semi-Furnished,1.0,10066394
+DLF Phase 2,Villa,3891.0,2.0,3.0,2.0,1.0,3.0,23,8,Fully Furnished,1.0,67716675
+DLF Phase 2,Apartment,908.0,5.0,2.0,2.0,1.0,2.0,22,6,Semi-Furnished,1.0,17322444
+Sohna Road,Apartment,2957.0,3.0,1.0,3.0,0.0,24.0,13,19,Fully Furnished,0.0,23565032
+Sector 56,Apartment,3848.0,5.0,1.0,0.0,0.0,12.0,7,16,Semi-Furnished,0.0,53764996
+DLF Phase 3,Villa,3048.0,2.0,4.0,3.0,0.0,18.0,17,7,Fully Furnished,0.0,47800354
+DLF Phase 2,Apartment,3593.0,1.0,2.0,1.0,2.0,3.0,3,12,Semi-Furnished,1.0,62204077
+Golf Course Road,Apartment,3017.0,1.0,4.0,0.0,2.0,7.0,25,31,Semi-Furnished,1.0,60296499
+DLF Phase 1,Apartment,1129.0,2.0,4.0,1.0,2.0,22.0,1,32,Fully Furnished,0.0,18626406
+Sohna Road,Builder Floor,2029.0,1.0,3.0,1.0,1.0,10.0,2,27,Fully Furnished,0.0,17652599
+Sohna Road,Apartment,1642.0,4.0,4.0,2.0,1.0,21.0,14,15,Fully Furnished,1.0,15324915
+DLF Phase 2,Apartment,1282.0,3.0,2.0,2.0,1.0,20.0,2,28,Fully Furnished,0.0,20417263
+DLF Phase 3,Apartment,1294.0,3.0,4.0,3.0,2.0,4.0,5,22,Semi-Furnished,1.0,22636071
+Sector 45,Apartment,1473.0,1.0,2.0,1.0,1.0,19.0,6,3,Semi-Furnished,0.0,20979988
+DLF Phase 1,Apartment,1385.0,1.0,2.0,3.0,2.0,10.0,27,12,Unfurnished,1.0,24910646
+DLF Phase 2,Builder Floor,848.0,3.0,4.0,2.0,0.0,5.0,1,4,Fully Furnished,0.0,16293204
+DLF Phase 2,Apartment,3113.0,2.0,3.0,1.0,0.0,5.0,3,25,Semi-Furnished,0.0,53460758
+Sector 57,Villa,1908.0,3.0,4.0,0.0,1.0,3.0,28,20,Semi-Furnished,0.0,25807078
+Sector 57,Apartment,4351.0,5.0,3.0,2.0,2.0,20.0,1,32,Semi-Furnished,0.0,57680522
+Sector 67,Apartment,2035.0,5.0,4.0,1.0,1.0,20.0,15,10,Semi-Furnished,0.0,25682963
+DLF Phase 1,Builder Floor,3237.0,2.0,3.0,3.0,0.0,12.0,11,17,Fully Furnished,0.0,57774192
+Sector 45,Apartment,1589.0,2.0,3.0,2.0,0.0,3.0,16,15,Unfurnished,1.0,24545550
+DLF Phase 3,Apartment,4441.0,1.0,2.0,1.0,1.0,15.0,18,31,Fully Furnished,0.0,69131098
+Sector 56,Villa,3196.0,4.0,4.0,0.0,2.0,0.0,25,18,Unfurnished,0.0,46852260
+DLF Phase 3,Apartment,2973.0,2.0,2.0,3.0,0.0,6.0,18,18,Semi-Furnished,0.0,47892429
+Sohna Road,Builder Floor,,,,,,,21,8,,,32804653
+Sector 56,Apartment,1111.0,2.0,1.0,1.0,0.0,14.0,23,6,Unfurnished,0.0,14369823
+DLF Phase 1,Apartment,1101.0,5.0,1.0,3.0,2.0,16.0,26,9,Unfurnished,0.0,19468787
+DLF Phase 1,Builder Floor,1086.0,5.0,1.0,3.0,2.0,1.0,9,9,Fully Furnished,0.0,21573045
+DLF Phase 3,Apartment,1612.0,5.0,3.0,0.0,1.0,3.0,2,24,Fully Furnished,0.0,27749535
+Sector 67,Apartment,1620.0,3.0,3.0,0.0,1.0,10.0,10,12,Semi-Furnished,0.0,21488803
+Sector 45,Apartment,1465.0,1.0,2.0,2.0,1.0,12.0,4,5,Fully Furnished,0.0,20852492
+Sector 57,Apartment,4030.0,1.0,4.0,1.0,2.0,1.0,6,21,Semi-Furnished,1.0,53471860
+Sector 56,Apartment,2808.0,5.0,4.0,3.0,1.0,10.0,9,24,Unfurnished,0.0,39590199
+Sector 67,Apartment,4020.0,2.0,3.0,1.0,0.0,4.0,3,30,Unfurnished,1.0,51472098
+Sector 56,Villa,3014.0,3.0,4.0,0.0,0.0,3.0,12,26,Semi-Furnished,0.0,43855412
+Sohna Road,Apartment,3942.0,3.0,1.0,3.0,2.0,10.0,2,28,Semi-Furnished,0.0,34876638
+DLF Phase 3,Builder Floor,2060.0,5.0,1.0,0.0,2.0,5.0,6,27,Unfurnished,1.0,33925097
+Sector 56,Apartment,1005.0,1.0,1.0,1.0,2.0,15.0,5,20,Fully Furnished,0.0,12610608
+Sector 67,Apartment,1639.0,5.0,3.0,2.0,1.0,7.0,8,22,Fully Furnished,0.0,22000580
+Sector 57,Apartment,4077.0,3.0,3.0,1.0,1.0,10.0,10,34,Semi-Furnished,0.0,54330118
+Sector 45,Apartment,1626.0,5.0,1.0,2.0,1.0,19.0,1,12,Unfurnished,0.0,22701534
+Sector 57,Builder Floor,1908.0,4.0,1.0,3.0,0.0,1.0,2,14,Unfurnished,0.0,26197851
+DLF Phase 3,Builder Floor,3892.0,3.0,3.0,3.0,0.0,15.0,21,34,Fully Furnished,1.0,62209462
+Sector 67,Builder Floor,4145.0,4.0,2.0,0.0,1.0,14.0,17,30,Unfurnished,0.0,51281462
+Sector 56,Builder Floor,525.0,1.0,2.0,3.0,1.0,3.0,24,33,Fully Furnished,0.0,8524495
+Sector 45,Villa,573.0,5.0,3.0,2.0,2.0,17.0,20,15,Unfurnished,0.0,8842093
+DLF Phase 3,Apartment,3684.0,3.0,3.0,0.0,0.0,4.0,1,11,Unfurnished,1.0,60101242
+Sector 57,Builder Floor,1817.0,4.0,4.0,1.0,1.0,0.0,28,31,Unfurnished,0.0,26596091
+Golf Course Road,Apartment,1294.0,4.0,4.0,3.0,0.0,21.0,2,24,Fully Furnished,0.0,24736422
+Sector 57,Apartment,2976.0,5.0,1.0,2.0,0.0,24.0,10,29,Fully Furnished,0.0,36301720
+Sohna Road,Apartment,2867.0,2.0,4.0,0.0,1.0,21.0,28,5,Unfurnished,0.0,24827292
+Sector 57,Builder Floor,1258.0,4.0,4.0,1.0,2.0,23.0,17,32,Unfurnished,0.0,15400404
+DLF Phase 3,Builder Floor,4391.0,1.0,3.0,2.0,1.0,6.0,23,13,Unfurnished,1.0,70241507
+DLF Phase 1,Apartment,1075.0,3.0,4.0,3.0,0.0,0.0,20,29,Unfurnished,1.0,21848121
+Sector 45,Apartment,3049.0,2.0,1.0,0.0,0.0,20.0,20,26,Fully Furnished,0.0,43786627
+DLF Phase 3,Apartment,3569.0,4.0,3.0,1.0,2.0,3.0,12,25,Fully Furnished,1.0,59219785
+DLF Phase 3,Apartment,3542.0,4.0,1.0,3.0,0.0,17.0,0,18,Fully Furnished,1.0,55797660
+Sector 56,Apartment,1277.0,1.0,2.0,1.0,2.0,4.0,20,15,Semi-Furnished,1.0,19798719
+Sector 45,Builder Floor,3975.0,3.0,3.0,3.0,0.0,24.0,19,8,Fully Furnished,0.0,57084114
+Sector 56,Apartment,3816.0,4.0,1.0,3.0,1.0,6.0,21,9,Semi-Furnished,1.0,53962986
+Sohna Road,Apartment,,,,,,,27,5,,,14712970
+Golf Course Road,Apartment,1796.0,3.0,2.0,2.0,1.0,20.0,25,22,Fully Furnished,0.0,34683629
+DLF Phase 1,Builder Floor,3759.0,3.0,4.0,2.0,0.0,3.0,4,28,Fully Furnished,0.0,68994258
+DLF Phase 3,Builder Floor,1801.0,5.0,2.0,0.0,0.0,6.0,13,8,Unfurnished,0.0,29713128
+Golf Course Road,Apartment,4178.0,5.0,4.0,2.0,0.0,2.0,19,25,Fully Furnished,0.0,85006786
+Sohna Road,Apartment,3115.0,2.0,3.0,2.0,2.0,3.0,13,32,Fully Furnished,0.0,30260519
+Sohna Road,Builder Floor,1081.0,2.0,3.0,0.0,2.0,7.0,14,23,Semi-Furnished,1.0,12046630
+Sector 56,Villa,911.0,1.0,3.0,1.0,1.0,13.0,20,12,Fully Furnished,0.0,11723092
+DLF Phase 1,Apartment,2010.0,4.0,2.0,1.0,1.0,24.0,23,8,Semi-Furnished,1.0,34228000
+Sector 56,Villa,3499.0,5.0,3.0,2.0,2.0,7.0,23,9,Semi-Furnished,1.0,50921099
+DLF Phase 2,Apartment,2937.0,5.0,1.0,2.0,0.0,7.0,18,7,Semi-Furnished,1.0,50427338
+Golf Course Road,Apartment,1537.0,2.0,3.0,2.0,0.0,21.0,22,8,Fully Furnished,1.0,29639700
+Sector 56,Apartment,1655.0,4.0,3.0,1.0,1.0,2.0,6,5,Unfurnished,0.0,25324184
+DLF Phase 1,Builder Floor,4231.0,5.0,2.0,1.0,0.0,2.0,18,19,Fully Furnished,1.0,77730710
+DLF Phase 2,Villa,3808.0,4.0,2.0,1.0,0.0,18.0,6,26,Unfurnished,0.0,64285108
+DLF Phase 1,Apartment,3069.0,4.0,4.0,3.0,1.0,23.0,17,1,Unfurnished,1.0,53707857
+Sector 67,Builder Floor,2686.0,4.0,4.0,1.0,1.0,2.0,9,12,Unfurnished,0.0,35238961
+DLF Phase 3,Apartment,,,,,,,18,19,,,64620238
+DLF Phase 1,Apartment,,,,,,,1,10,,,41732795
+DLF Phase 3,Apartment,4493.0,1.0,1.0,3.0,1.0,5.0,12,32,Unfurnished,0.0,72346480
+Sector 56,Apartment,,,,,,,5,14,,,51019615
+Sector 56,Apartment,3003.0,4.0,3.0,0.0,1.0,19.0,11,30,Semi-Furnished,0.0,40722998
+DLF Phase 2,Builder Floor,3248.0,3.0,3.0,3.0,2.0,19.0,20,21,Unfurnished,1.0,54773945
+DLF Phase 1,Builder Floor,2016.0,4.0,4.0,3.0,0.0,12.0,21,19,Semi-Furnished,0.0,36530053
+DLF Phase 1,Builder Floor,758.0,5.0,1.0,0.0,2.0,0.0,8,22,Semi-Furnished,1.0,14860851
+DLF Phase 3,Builder Floor,592.0,1.0,2.0,2.0,2.0,8.0,15,34,Semi-Furnished,0.0,9859289
+Sector 45,Apartment,3739.0,4.0,4.0,2.0,2.0,8.0,18,1,Unfurnished,0.0,57510395
+Golf Course Road,Villa,3820.0,4.0,1.0,0.0,0.0,20.0,23,5,Semi-Furnished,0.0,75761439
+Sector 67,Apartment,4271.0,1.0,4.0,2.0,2.0,20.0,20,23,Semi-Furnished,0.0,51754205
+Sector 45,Villa,4096.0,4.0,2.0,0.0,0.0,21.0,6,16,Semi-Furnished,1.0,60754926
+Sector 57,Apartment,2692.0,5.0,2.0,2.0,2.0,17.0,5,32,Semi-Furnished,0.0,35730214
+Sector 67,Builder Floor,2066.0,3.0,4.0,1.0,0.0,1.0,23,18,Semi-Furnished,0.0,27120859
+Sohna Road,Apartment,1870.0,2.0,1.0,0.0,1.0,14.0,13,6,Fully Furnished,1.0,16217498
+Sector 67,Apartment,2982.0,2.0,2.0,1.0,1.0,8.0,10,13,Semi-Furnished,1.0,37623728
+Golf Course Road,Villa,3196.0,4.0,4.0,1.0,2.0,14.0,10,21,Semi-Furnished,1.0,63831374
+Sector 45,Apartment,2822.0,3.0,3.0,2.0,1.0,16.0,14,33,Fully Furnished,0.0,41167194
+Sohna Road,Apartment,2646.0,5.0,4.0,2.0,2.0,15.0,22,34,Fully Furnished,0.0,24902306
+Sector 57,Builder Floor,3524.0,4.0,3.0,0.0,1.0,20.0,24,11,Semi-Furnished,1.0,46181711
+Sector 67,Villa,715.0,5.0,1.0,1.0,0.0,13.0,15,15,Fully Furnished,1.0,8837726
+Sector 56,Builder Floor,2187.0,2.0,4.0,1.0,2.0,13.0,6,1,Fully Furnished,0.0,31054068
+DLF Phase 3,Villa,,,,,,,22,7,,,39607126
+Golf Course Road,Villa,2467.0,5.0,1.0,2.0,0.0,8.0,7,34,Fully Furnished,0.0,49803243
+Sector 67,Apartment,1225.0,1.0,2.0,1.0,2.0,10.0,19,7,Semi-Furnished,0.0,14846097
+Sohna Road,Apartment,1198.0,1.0,2.0,1.0,2.0,2.0,17,30,Unfurnished,0.0,11141806
+Sector 67,Apartment,2469.0,2.0,2.0,2.0,1.0,17.0,26,32,Semi-Furnished,0.0,28945526
+DLF Phase 2,Apartment,,,,,,,2,7,,,76143657
+DLF Phase 1,Builder Floor,1382.0,3.0,3.0,0.0,0.0,24.0,19,4,Fully Furnished,0.0,21645489
+Golf Course Road,Villa,2181.0,4.0,3.0,1.0,2.0,4.0,29,11,Fully Furnished,0.0,46654756
+Sector 67,Apartment,3237.0,4.0,3.0,1.0,1.0,8.0,9,8,Unfurnished,0.0,41572730
+Sohna Road,Builder Floor,4360.0,5.0,3.0,1.0,2.0,14.0,23,32,Unfurnished,1.0,40513457
+Sector 57,Builder Floor,1905.0,5.0,2.0,1.0,2.0,11.0,22,32,Fully Furnished,0.0,26273420
+Sector 56,Builder Floor,1005.0,5.0,3.0,1.0,1.0,6.0,3,5,Fully Furnished,1.0,14948427
+Sector 45,Apartment,541.0,5.0,3.0,2.0,0.0,10.0,22,25,Semi-Furnished,1.0,8535302
+DLF Phase 1,Apartment,1313.0,4.0,2.0,1.0,0.0,18.0,10,23,Unfurnished,0.0,21748813
+Golf Course Road,Builder Floor,3961.0,5.0,3.0,3.0,0.0,14.0,12,26,Fully Furnished,1.0,79593175
+Sector 56,Builder Floor,,,,,,,29,23,,,11474506
+DLF Phase 1,Apartment,3463.0,5.0,1.0,2.0,1.0,1.0,26,22,Semi-Furnished,0.0,62959516
+Sohna Road,Apartment,3796.0,2.0,3.0,2.0,0.0,17.0,15,33,Semi-Furnished,0.0,32762398
+Sector 57,Apartment,,,,,,,16,7,,,25639428
+DLF Phase 1,Villa,4387.0,5.0,1.0,1.0,0.0,8.0,12,16,Unfurnished,1.0,79638015
+Golf Course Road,Builder Floor,1518.0,4.0,2.0,3.0,2.0,8.0,22,30,Semi-Furnished,0.0,31339314
+Sector 57,Villa,,,,,,,14,9,,,35742228
+DLF Phase 2,Builder Floor,2342.0,4.0,3.0,3.0,1.0,23.0,4,28,Semi-Furnished,0.0,38289265
+Sector 57,Apartment,4065.0,1.0,4.0,2.0,0.0,12.0,28,20,Fully Furnished,0.0,52156026
+Sector 56,Builder Floor,855.0,3.0,2.0,3.0,1.0,4.0,3,33,Semi-Furnished,1.0,13927142
+DLF Phase 2,Apartment,3088.0,4.0,3.0,0.0,1.0,21.0,26,11,Fully Furnished,0.0,51009245
+Sector 67,Builder Floor,2626.0,2.0,2.0,1.0,0.0,1.0,18,15,Unfurnished,1.0,34400161
+Sector 57,Apartment,4350.0,5.0,2.0,1.0,2.0,2.0,16,15,Fully Furnished,1.0,58935786
+Sector 67,Apartment,,,,,,,6,33,,,36723916
+Sohna Road,Villa,1211.0,3.0,1.0,1.0,2.0,2.0,7,12,Unfurnished,0.0,11754566
+Sector 57,Apartment,4381.0,2.0,4.0,2.0,2.0,6.0,13,4,Fully Furnished,1.0,59637594
+Sector 56,Villa,556.0,3.0,4.0,1.0,2.0,10.0,21,14,Fully Furnished,0.0,8037541
+Sector 67,Apartment,,,,,,,20,6,,,18169662
+DLF Phase 1,Apartment,884.0,2.0,3.0,1.0,1.0,14.0,4,3,Fully Furnished,0.0,14999233
+Sector 67,Apartment,1933.0,2.0,3.0,3.0,2.0,23.0,6,29,Unfurnished,1.0,22375521
+DLF Phase 3,Apartment,566.0,5.0,2.0,2.0,0.0,10.0,24,2,Fully Furnished,1.0,9252158
+Sector 45,Apartment,1733.0,2.0,1.0,0.0,1.0,13.0,19,1,Fully Furnished,0.0,25558001
+DLF Phase 2,Builder Floor,1488.0,2.0,1.0,1.0,0.0,14.0,6,8,Unfurnished,0.0,23731048
+Sector 67,Apartment,,,,,,,4,7,,,14452775
+Golf Course Road,Apartment,3909.0,3.0,4.0,0.0,1.0,8.0,18,17,Semi-Furnished,1.0,79476867
+DLF Phase 1,Villa,3726.0,5.0,1.0,2.0,1.0,3.0,28,16,Unfurnished,1.0,68468056
+DLF Phase 1,Apartment,1293.0,1.0,4.0,1.0,2.0,10.0,4,32,Fully Furnished,0.0,24262060
+Sector 56,Villa,2958.0,5.0,3.0,2.0,1.0,8.0,15,19,Fully Furnished,0.0,42735540
+Golf Course Road,Builder Floor,3270.0,5.0,4.0,0.0,2.0,22.0,0,33,Unfurnished,0.0,64273032
+DLF Phase 1,Apartment,603.0,5.0,3.0,2.0,0.0,12.0,12,25,Semi-Furnished,0.0,10142961
+DLF Phase 3,Builder Floor,1375.0,2.0,3.0,1.0,0.0,13.0,20,3,Semi-Furnished,1.0,21296899
+Sector 67,Apartment,3444.0,2.0,1.0,3.0,2.0,20.0,8,28,Fully Furnished,1.0,41792958
+DLF Phase 2,Apartment,2346.0,3.0,2.0,2.0,2.0,18.0,27,2,Fully Furnished,0.0,39041403
+DLF Phase 3,Builder Floor,2398.0,4.0,3.0,3.0,2.0,15.0,22,19,Fully Furnished,1.0,39742595
+DLF Phase 3,Apartment,1318.0,1.0,3.0,0.0,0.0,21.0,20,11,Fully Furnished,1.0,19273095
+Sohna Road,Apartment,,,,,,,23,3,,,27109574
+Golf Course Road,Apartment,2308.0,5.0,4.0,2.0,2.0,10.0,5,9,Fully Furnished,0.0,48134852
+DLF Phase 3,Apartment,,,,,,,18,3,,,40680629
+Sector 56,Apartment,,,,,,,8,4,,,44724370
+Golf Course Road,Builder Floor,4465.0,1.0,1.0,1.0,1.0,20.0,18,8,Unfurnished,0.0,86377796
+Golf Course Road,Apartment,2346.0,4.0,1.0,0.0,1.0,2.0,6,4,Semi-Furnished,0.0,48907731
+DLF Phase 2,Apartment,2676.0,2.0,1.0,2.0,2.0,19.0,12,32,Unfurnished,0.0,43559197
+DLF Phase 1,Apartment,1356.0,3.0,1.0,0.0,2.0,17.0,24,6,Unfurnished,0.0,24110824
+DLF Phase 2,Apartment,4166.0,1.0,2.0,0.0,0.0,3.0,0,29,Fully Furnished,0.0,70636692
+Sohna Road,Apartment,,,,,,,20,14,,,6410396
+Golf Course Road,Builder Floor,3424.0,4.0,2.0,2.0,1.0,21.0,13,31,Unfurnished,1.0,67016220
+Sector 56,Apartment,2420.0,1.0,1.0,3.0,1.0,3.0,25,16,Fully Furnished,1.0,34768441
+Sector 67,Apartment,1074.0,5.0,1.0,1.0,2.0,19.0,20,13,Fully Furnished,1.0,13152166
+DLF Phase 2,Builder Floor,2682.0,2.0,1.0,2.0,1.0,4.0,6,34,Fully Furnished,1.0,46415599
+Sector 56,Villa,1773.0,4.0,4.0,3.0,2.0,4.0,8,29,Fully Furnished,0.0,26049662
+Sohna Road,Apartment,1572.0,2.0,2.0,0.0,1.0,9.0,27,19,Fully Furnished,1.0,14552828
+Golf Course Road,Apartment,2994.0,1.0,4.0,2.0,1.0,22.0,9,32,Semi-Furnished,0.0,58176373
+Sector 45,Apartment,3858.0,2.0,1.0,3.0,0.0,17.0,12,30,Unfurnished,0.0,56966611
+Sector 45,Apartment,3847.0,4.0,2.0,1.0,0.0,11.0,14,6,Fully Furnished,1.0,58803417
+Sector 67,Builder Floor,2649.0,4.0,2.0,1.0,0.0,9.0,3,17,Fully Furnished,0.0,33380641
+Sector 56,Villa,3323.0,2.0,2.0,2.0,2.0,18.0,4,13,Fully Furnished,0.0,45528862
+Sector 57,Apartment,4138.0,5.0,2.0,3.0,1.0,14.0,9,6,Semi-Furnished,0.0,53841027
+Golf Course Road,Apartment,542.0,4.0,1.0,3.0,1.0,15.0,25,6,Unfurnished,0.0,10595695
+Golf Course Road,Apartment,4048.0,3.0,2.0,3.0,1.0,7.0,26,20,Fully Furnished,1.0,82702326
+Sector 67,Apartment,2095.0,4.0,2.0,2.0,1.0,12.0,20,11,Fully Furnished,0.0,26436179
+Sohna Road,Villa,2255.0,1.0,2.0,0.0,1.0,12.0,20,31,Unfurnished,1.0,20853971
+Sohna Road,Apartment,4419.0,1.0,4.0,3.0,2.0,1.0,25,11,Semi-Furnished,0.0,40537636
+Sector 67,Apartment,3903.0,1.0,3.0,2.0,0.0,4.0,28,32,Unfurnished,1.0,49950790
+DLF Phase 3,Apartment,851.0,2.0,1.0,1.0,0.0,14.0,3,11,Fully Furnished,0.0,12029283
+DLF Phase 3,Builder Floor,2842.0,2.0,3.0,0.0,2.0,14.0,21,25,Unfurnished,1.0,46194480
+DLF Phase 3,Villa,2829.0,1.0,3.0,2.0,2.0,17.0,25,26,Fully Furnished,1.0,45678513
+Sector 57,Apartment,1687.0,4.0,1.0,2.0,0.0,8.0,29,19,Unfurnished,0.0,21723653
+DLF Phase 2,Apartment,2570.0,3.0,3.0,0.0,0.0,14.0,23,9,Fully Furnished,0.0,43201925
+Sector 56,Builder Floor,3589.0,4.0,3.0,3.0,0.0,22.0,10,17,Semi-Furnished,0.0,49183811
+DLF Phase 2,Apartment,,,,,,,5,31,,,49531461
+Sector 56,Villa,3597.0,3.0,3.0,0.0,2.0,8.0,20,23,Unfurnished,0.0,50806148
+Sector 57,Apartment,2362.0,2.0,3.0,2.0,1.0,0.0,10,23,Fully Furnished,1.0,31667443
+Sector 45,Apartment,3706.0,3.0,4.0,2.0,1.0,13.0,4,28,Unfurnished,0.0,55954959
+Sector 57,Builder Floor,2874.0,3.0,2.0,1.0,0.0,10.0,5,19,Semi-Furnished,0.0,37608113
+Sohna Road,Apartment,2986.0,5.0,2.0,1.0,0.0,17.0,3,23,Fully Furnished,0.0,26673135
+Golf Course Road,Apartment,2880.0,5.0,1.0,3.0,1.0,11.0,4,2,Semi-Furnished,1.0,58375862
+DLF Phase 1,Apartment,2480.0,1.0,1.0,3.0,0.0,15.0,22,7,Unfurnished,0.0,42891406
+Sohna Road,Builder Floor,1316.0,2.0,2.0,0.0,0.0,23.0,4,17,Unfurnished,0.0,9703952
+Sector 57,Apartment,1105.0,4.0,4.0,1.0,2.0,14.0,29,27,Unfurnished,1.0,13850597
+Sector 56,Apartment,,,,,,,1,2,,,53933191
+DLF Phase 1,Apartment,2546.0,2.0,1.0,0.0,0.0,14.0,25,16,Fully Furnished,0.0,44090631
+Sector 56,Apartment,4196.0,4.0,3.0,2.0,0.0,2.0,17,33,Semi-Furnished,1.0,61200355
+Golf Course Road,Apartment,1482.0,2.0,3.0,3.0,1.0,1.0,6,24,Fully Furnished,0.0,32287733
+DLF Phase 1,Builder Floor,4425.0,1.0,3.0,0.0,2.0,23.0,9,4,Semi-Furnished,1.0,77590034
+Sector 67,Villa,2474.0,4.0,4.0,0.0,2.0,18.0,16,12,Fully Furnished,0.0,30899089
+DLF Phase 2,Apartment,2225.0,2.0,4.0,0.0,0.0,15.0,21,18,Fully Furnished,0.0,36221728
+DLF Phase 1,Apartment,702.0,5.0,3.0,1.0,1.0,13.0,16,1,Unfurnished,0.0,14228801
+Golf Course Road,Apartment,1470.0,3.0,4.0,2.0,1.0,16.0,19,28,Fully Furnished,0.0,29222542
+Sector 67,Builder Floor,4407.0,1.0,2.0,0.0,2.0,13.0,23,29,Semi-Furnished,1.0,55229296
+DLF Phase 1,Apartment,1093.0,5.0,3.0,1.0,1.0,16.0,9,7,Unfurnished,1.0,19442576
+Sector 45,Builder Floor,,,,,,,13,32,,,20867852
+Sector 67,Builder Floor,3859.0,5.0,2.0,0.0,2.0,12.0,20,18,Fully Furnished,0.0,47836086
+Golf Course Road,Builder Floor,2861.0,2.0,2.0,0.0,2.0,12.0,11,3,Fully Furnished,0.0,56205223
+Sector 56,Apartment,1329.0,5.0,4.0,2.0,0.0,3.0,9,11,Unfurnished,1.0,20951635
+Sohna Road,Builder Floor,2918.0,5.0,2.0,0.0,2.0,14.0,0,13,Semi-Furnished,1.0,26046200
+Golf Course Road,Apartment,3548.0,3.0,1.0,1.0,2.0,12.0,0,4,Unfurnished,1.0,71604321
+Sector 67,Apartment,1454.0,1.0,4.0,0.0,1.0,11.0,3,29,Semi-Furnished,0.0,17224727
+Sector 45,Apartment,2317.0,4.0,2.0,3.0,1.0,18.0,26,11,Semi-Furnished,0.0,33103856
+DLF Phase 3,Apartment,1921.0,4.0,1.0,1.0,1.0,24.0,15,31,Semi-Furnished,0.0,29569438
+Sector 57,Apartment,765.0,2.0,4.0,3.0,2.0,6.0,17,13,Semi-Furnished,0.0,10747107
+Sector 56,Builder Floor,3844.0,5.0,3.0,3.0,1.0,8.0,14,8,Unfurnished,0.0,54449016
+DLF Phase 2,Builder Floor,4195.0,1.0,1.0,3.0,2.0,3.0,11,16,Fully Furnished,0.0,71912843
+DLF Phase 2,Apartment,701.0,2.0,3.0,3.0,1.0,8.0,26,23,Fully Furnished,0.0,11983938
+Sector 57,Apartment,3271.0,1.0,3.0,0.0,2.0,0.0,8,16,Fully Furnished,1.0,44140280
+DLF Phase 2,Builder Floor,,,,,,,0,17,,,28004773
+DLF Phase 3,Apartment,4373.0,5.0,3.0,3.0,0.0,3.0,28,5,Unfurnished,0.0,70694413
+DLF Phase 2,Apartment,1746.0,2.0,2.0,2.0,0.0,21.0,17,25,Unfurnished,0.0,27056300
+Golf Course Road,Villa,1157.0,4.0,4.0,2.0,1.0,16.0,29,17,Unfurnished,0.0,23229756
+DLF Phase 2,Apartment,1790.0,4.0,1.0,1.0,0.0,1.0,12,28,Unfurnished,1.0,31591455
+DLF Phase 3,Apartment,2313.0,2.0,3.0,2.0,2.0,4.0,10,31,Fully Furnished,0.0,37359774
+Sohna Road,Apartment,1509.0,2.0,4.0,3.0,1.0,8.0,10,13,Unfurnished,0.0,13216582
+Sector 67,Apartment,628.0,4.0,2.0,3.0,2.0,22.0,13,8,Semi-Furnished,0.0,6465047
+Sector 57,Apartment,2940.0,4.0,1.0,3.0,0.0,19.0,12,16,Unfurnished,0.0,36516637
+Sector 67,Builder Floor,2327.0,1.0,2.0,1.0,2.0,13.0,13,13,Fully Furnished,0.0,28414639
+Sohna Road,Builder Floor,,,,,,,9,18,,,25215888
+Sector 45,Apartment,1870.0,5.0,4.0,3.0,0.0,1.0,0,31,Unfurnished,0.0,30032674
+DLF Phase 3,Apartment,4310.0,5.0,4.0,2.0,2.0,20.0,28,27,Semi-Furnished,1.0,68484648
+DLF Phase 2,Apartment,1629.0,2.0,4.0,1.0,1.0,19.0,27,15,Fully Furnished,0.0,26329612
+Sector 57,Apartment,4334.0,4.0,4.0,2.0,1.0,5.0,17,25,Fully Furnished,0.0,58007227
+DLF Phase 1,Apartment,,,,,,,10,4,,,53602004
+Sector 56,Apartment,,,,,,,24,18,,,11086832
+Sector 45,Builder Floor,2502.0,1.0,4.0,3.0,2.0,0.0,22,17,Semi-Furnished,1.0,39172371
+Golf Course Road,Apartment,1926.0,2.0,1.0,2.0,0.0,0.0,4,25,Semi-Furnished,0.0,38576180
+Sector 56,Apartment,2567.0,1.0,1.0,1.0,0.0,12.0,28,14,Fully Furnished,0.0,34967170
+Sector 56,Builder Floor,,,,,,,2,31,,,60116489
+DLF Phase 1,Builder Floor,664.0,1.0,1.0,1.0,1.0,24.0,16,3,Fully Furnished,0.0,8725231
+Sector 57,Apartment,,,,,,,12,1,,,58008669
+DLF Phase 3,Apartment,2131.0,3.0,1.0,2.0,2.0,9.0,7,3,Semi-Furnished,0.0,33608333
+Sector 57,Apartment,811.0,3.0,2.0,1.0,2.0,5.0,28,1,Unfurnished,0.0,11352916
