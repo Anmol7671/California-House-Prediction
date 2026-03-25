@@ -56,7 +56,7 @@ The following preprocessing techniques were applied:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/California-House-Prediction.git
+git clone https://github.com/Anmol7671/California-House-Prediction.git
 
 2. Navigate to the project folder:
 
